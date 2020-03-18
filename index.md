@@ -35,14 +35,14 @@ It's just one more [jekyll](https://github.com/jekyll/jekyll) theme. Maybe it's 
 
 ~~~ yml
 # Site settings
-title: "gjuniioor"
+title: "Liv's Chitinous Cavern"
 bye_message: "Thx!"
-baseurl: "/clyell/"
-url: "https://gjuniioor.github.io"
+baseurl: "/home/"
+url: "https://livinabsurdism.github.io"
 disqus: gjuniioor
 
 # Header settings
-nick: "gjuniioor"
+nick: "Liv's Chitinous Cavern"
 mail:
     domain: "protonmail"
     ext: "ch"
